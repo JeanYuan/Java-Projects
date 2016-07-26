@@ -58,7 +58,7 @@ import javafx.scene.control.TabPane;
 import javafx.scene.control.Tab;
 
 /**
- * CST8284 Assignment 3: Web Browser in Javafx section: 310 Professors: Eric
+ * CST8284 Project 3: Web Browser in Javafx section: 310 Professors: Eric
  * Torunski, Dave Houtman
  * 
  * @author Jean

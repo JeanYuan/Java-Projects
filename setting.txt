@@ -1,0 +1,6 @@
+ScreenX=232.6666717529297
+ScreenY=2.0
+height=677.3333129882812
+width=814.6666870117188
+downloadDirectory=null
+homepage=Default Homepage
